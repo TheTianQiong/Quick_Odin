@@ -1,0 +1,11 @@
+altgraph==0.17.2
+colorama==0.4.5
+future==0.18.2
+importlib-metadata==4.8.3
+pefile==2022.5.30
+Pillow==8.4.0
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.0
+pywin32-ctypes==0.2.0
+qrcode==7.3.1
+typing-extensions==4.1.1
